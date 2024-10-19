@@ -8846,7 +8846,6 @@
 "classname" "func_button"
 "sounds" "2"
 "angle" "90"
-"wait" "-1"
 "target" "lift04"
 // brush 0
 {
@@ -8863,7 +8862,6 @@
 "classname" "func_button"
 "sounds" "2"
 "angle" "180"
-"wait" "-1"
 "target" "lift04"
 // brush 0
 {
